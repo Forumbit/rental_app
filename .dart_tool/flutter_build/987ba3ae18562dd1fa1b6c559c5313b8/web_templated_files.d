@@ -1,1 +1,0 @@
- /Users/amirkharisov/projects/dart/rental_app/build/web/flutter_bootstrap.js /Users/amirkharisov/projects/dart/rental_app/build/web/index.html:  /Users/amirkharisov/projects/dart/rental_app/web/index.html
