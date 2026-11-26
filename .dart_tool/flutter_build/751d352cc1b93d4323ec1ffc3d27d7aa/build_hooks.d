@@ -1,0 +1,1 @@
+ /Users/amirkharisov/projects/dart/rental_app/.dart_tool/flutter_build/751d352cc1b93d4323ec1ffc3d27d7aa/build_hooks_result.json:  /Users/amirkharisov/projects/dart/rental_app/.dart_tool/package_config.json /Users/amirkharisov/projects/dart/rental_app/pubspec.yaml

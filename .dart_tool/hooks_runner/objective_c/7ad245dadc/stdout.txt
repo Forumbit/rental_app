@@ -1,0 +1,57 @@
+Running `(cd /Users/amirkharisov/.pub-cache/hosted/pub.dev/objective_c-9.6.4/; TMPDIR=/var/folders/69/69l9h1m14ms2t34vc0zvtnlc0000gn/T/ PATH=/Users/amirkharisov/fvm/versions/3.50.1/bin:/Users/amirkharisov/.local/bin:/Users/amirkharisov/.opencode/bin:/usr/local/opt/binutils/bin:/Users/amirkharisov/Library/Android/sdk/build-tools/36.0.0:/Users/amirkharisov/Library/Android/sdk/cmdline-tools/latest/bin:/Users/amirkharisov/Library/Android/sdk/platform-tools:/Users/amirkharisov/Library/Android/sdk/emulator:/usr/local/opt/postgresql@15/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/share/dotnet:~/.dotnet/tools:/usr/local/go/bin:/opt/homebrew/bin:/Users/amirkharisov/.unity/bin:/Users/amirkharisov/.local/bin:/Users/amirkharisov/.opencode/bin:/usr/local/opt/binutils/bin:/Users/amirkharisov/Library/Android/sdk/build-tools/36.0.0:/Users/amirkharisov/Library/Android/sdk/cmdline-tools/latest/bin:/Users/amirkharisov/Library/Android/sdk/platform-tools:/Users/amirkharisov/Library/Android/sdk/emulator:/usr/local/opt/postgresql@15/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/Users/amirkharisov/fvm/default/bin:/Users/amirkharisov/.pub-cache/bin:/Users/amirkharisov/fvm/default/bin:/Users/amirkharisov/Library/Android/sdk/cmdline-tools/latest/bin:/Users/amirkharisov/.pub-cache/bin HOME=/Users/amirkharisov /Users/amirkharisov/fvm/versions/3.50.1/bin/cache/dart-sdk/bin/dart --packages=/Users/amirkharisov/projects/dart/rental_app/.dart_tool/package_config.json /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/objective_c/7ad245dadc/hook.dill --config=/Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/objective_c/7ad245dadc/input.json )`.
+INFO: 2026-11-26 12:54:03.209969: Using compiler /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang from BuildInput.cCompiler.cc.
+
+INFO: 2026-11-26 12:54:03.213929: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/amirkharisov/.pub-cache/hosted/pub.dev/objective_c-9.6.4/src/include/dart_api_dl.c -fpic -gline-tables-only -I src -o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-11-26 12:54:03.216564: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/amirkharisov/.pub-cache/hosted/pub.dev/objective_c-9.6.4/src/objective_c.c -fpic -gline-tables-only -I src -o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o
+
+INFO: 2026-11-26 12:54:03.216742: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/amirkharisov/.pub-cache/hosted/pub.dev/objective_c-9.6.4/src/input_stream_adapter.m -fpic -gline-tables-only -I src -o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-11-26 12:54:03.216896: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/amirkharisov/.pub-cache/hosted/pub.dev/objective_c-9.6.4/src/objective_c.m -fpic -gline-tables-only -I src -o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o
+
+INFO: 2026-11-26 12:54:03.217046: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/amirkharisov/.pub-cache/hosted/pub.dev/objective_c-9.6.4/src/observer.m -fpic -gline-tables-only -I src -o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o
+
+INFO: 2026-11-26 12:54:03.217268: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/amirkharisov/.pub-cache/hosted/pub.dev/objective_c-9.6.4/src/protocol.m -fpic -gline-tables-only -I src -o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o
+
+
+
+INFO: 2026-11-26 12:54:03.217375: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/amirkharisov/.pub-cache/hosted/pub.dev/objective_c-9.6.4/src/objective_c_bindings_generated.m -fpic -gline-tables-only -I src -o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-11-26 12:54:23.335835: 
+INFO: 2026-11-26 12:54:23.335979: 
+INFO: 2026-11-26 12:54:23.336010: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-11-26 12:54:23.476472: 
+INFO: 2026-11-26 12:54:23.476515: 
+INFO: 2026-11-26 12:54:23.476526: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o
+
+INFO: 2026-11-26 12:54:23.491007: 
+INFO: 2026-11-26 12:54:23.491082: 
+INFO: 2026-11-26 12:54:23.491116: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o
+
+INFO: 2026-11-26 12:54:23.555784: 
+INFO: 2026-11-26 12:54:23.555825: 
+INFO: 2026-11-26 12:54:23.555836: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o
+
+INFO: 2026-11-26 12:54:24.177223: 
+INFO: 2026-11-26 12:54:24.177262: 
+INFO: 2026-11-26 12:54:24.177272: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o
+
+INFO: 2026-11-26 12:54:24.232606: 
+INFO: 2026-11-26 12:54:24.232649: 
+INFO: 2026-11-26 12:54:24.232717: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o
+
+INFO: 2026-11-26 12:54:24.270350: 
+INFO: 2026-11-26 12:54:24.270399: 
+INFO: 2026-11-26 12:54:24.270409: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-11-26 12:54:24.312576: 
+INFO: 2026-11-26 12:54:24.312616: 
+INFO: 2026-11-26 12:54:24.312626: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-11-26 12:54:24.313255: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -target arm64-apple-darwin -mmacos-version-min=13 -framework Foundation /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o -o /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/objective_c.dylib
+
+INFO: 2026-11-26 12:54:34.749023: 
+INFO: 2026-11-26 12:54:34.749061: 
+INFO: 2026-11-26 12:54:34.749071: Generated /Users/amirkharisov/projects/dart/rental_app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/objective_c.dylib
+
